@@ -1,0 +1,13 @@
+# Integrantes: IVAN ALEXANDER LOPEZ ZEGARRA | JESUS BRUNO CHANCAYAURI SONCCO | JOSE RODRIGO CARI ALMIRON | Computación Gráfica - Ball Pivoting
+Puntos cargados: 2503
+
+Generando malla BPA...
+Radio = 0.007
+Vecindad construida por CUDA para radio 0.007
+Semilla encontrada: (P0, P201, P1089)
+Triangulos generados: 6564
+TIEMPO_HIBRIDO_MS: 131
+GPU_VECINDAD_MS: 4.5071
+GPU_KERNELS_MS: 1.8790
+TRIANGULOS: 6564
+MALLA_HASH: 8b6c4fdf993a98f4

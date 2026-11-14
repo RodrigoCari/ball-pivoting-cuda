@@ -1,0 +1,15 @@
+name: Verificar resultados CPU
+
+on:
+  push:
+  pull_request:
+
+jobs:
+  cpu:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Compilar y comparar evidencias
+        run: |
+          bash ejecutar_pruebas.sh verificar
+          bash ejecutar_pruebas.sh prueba-cpu

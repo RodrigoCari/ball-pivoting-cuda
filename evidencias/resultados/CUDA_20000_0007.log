@@ -1,0 +1,39 @@
+# Integrantes: IVAN ALEXANDER LOPEZ ZEGARRA | JESUS BRUNO CHANCAYAURI SONCCO | JOSE RODRIGO CARI ALMIRON | Computación Gráfica - Ball Pivoting
+Puntos cargados: 20000
+
+Generando malla BPA multi-semilla...
+Radio = 0.007
+Vecindad construida por CUDA para radio 0.007
+Region 1: 1 triangulos
+Region 2: 40366 triangulos
+Region 3: 4 triangulos
+Region 4: 2 triangulos
+Region 5: 7 triangulos
+Region 6: 1 triangulos
+Region 7: 1 triangulos
+Region 8: 3 triangulos
+Region 9: 4 triangulos
+Region 10: 7 triangulos
+Region 11: 3 triangulos
+Region 12: 2 triangulos
+Region 13: 1 triangulos
+Region 14: 1 triangulos
+Region 15: 4 triangulos
+Region 16: 2 triangulos
+Region 17: 1 triangulos
+Region 18: 6 triangulos
+Region 19: 1 triangulos
+Region 20: 5 triangulos
+Region 50: 1 triangulos
+Region 100: 1 triangulos
+Region 150: 2 triangulos
+
+Reconstruccion terminada.
+Regiones encontradas: 189
+Puntos cubiertos: 19217 / 20000
+Triangulos generados: 40801
+TIEMPO_HIBRIDO_MS: 6619
+GPU_VECINDAD_MS: 25.2649
+GPU_KERNELS_MS: 11.6647
+TRIANGULOS: 40801
+MALLA_HASH: 108ab08f685ffa38

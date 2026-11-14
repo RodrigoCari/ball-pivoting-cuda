@@ -1,0 +1,21 @@
+# Integrantes: IVAN ALEXANDER LOPEZ ZEGARRA | JESUS BRUNO CHANCAYAURI SONCCO | JOSE RODRIGO CARI ALMIRON | Computación Gráfica - Ball Pivoting
+# Malla esperada para la nube de 9 puntos
+v -1.05 -0.95 0.08
+v  0.00 -1.00 0.22
+v  1.02 -0.92 0.10
+v -0.98  0.05 0.25
+v  0.03  0.00 0.78
+v  1.00  0.08 0.30
+v -1.02  1.03 0.12
+v  0.02  0.96 0.28
+v  0.95  1.05 0.15
+
+# 8 triangulos
+f 1 2 5
+f 1 5 4
+f 2 3 6
+f 2 6 5
+f 4 5 8
+f 4 8 7
+f 5 6 9
+f 5 9 8

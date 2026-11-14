@@ -1,0 +1,16 @@
+# Compilación y ejecuciones locales
+build/
+ejecuciones_locales/
+*.o
+*.obj.tmp
+*.exe
+*.out
+*.log.tmp
+__pycache__/
+*.pyc
+
+# Sistema y editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
